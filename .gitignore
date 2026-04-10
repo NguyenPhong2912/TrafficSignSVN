@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+captures/*.jpg
+captures/*.json
+captures/*_overlay.jpg
+!captures/.gitkeep
